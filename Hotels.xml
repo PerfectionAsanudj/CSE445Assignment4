@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel Rating="4.5" NearestAirport="Hartsfield–Jackson Atlanta International Airport (ATL)">
+    <Name>Loews Atlanta Hotel</Name>
+    <Phone>404-745-5000</Phone>
+    <Address Number="1065" Street="Peachtree St NE" City="Atlanta" State="GA" Zip="30309"/>
+  </Hotel>
+
+  <Hotel Rating="4.0" NearestAirport="Dallas/Fort Worth International Airport (DFW)">
+    <Name>Gaylord Texan Resort</Name>
+    <Phone>817-778-1000</Phone>
+    <Address Number="1501" Street="Gaylord Trail" City="Grapevine" State="TX" Zip="76051"/>
+  </Hotel>
+
+  <Hotel NearestAirport="Denver International Airport (DEN)">
+    <Name>The Crawford Hotel</Name>
+    <Phone>720-460-3700</Phone>
+    <Address Number="1701" Street="Wynkoop St" City="Denver" State="CO" Zip="80202"/>
+  </Hotel>
+
+  <Hotel Rating="3.8" NearestAirport="Chicago O'Hare International Airport (ORD)">
+    <Name>Hyatt Regency O'Hare</Name>
+    <Phone>847-696-1234</Phone>
+    <Address Number="9300" Street="W Bryn Mawr Ave" City="Rosemont" State="IL" Zip="60018"/>
+  </Hotel>
+
+  <Hotel NearestAirport="Los Angeles International Airport (LAX)">
+    <Name>Marriott LAX</Name>
+    <Phone>310-641-5700</Phone>
+    <Address Number="5855" Street="W Century Blvd" City="Los Angeles" State="CA" Zip="90045"/>
+  </Hotel>
+
+  <Hotel Rating="4.1" NearestAirport="Orlando International Airport (MCO)">
+    <Name>JW Marriott Orlando</Name>
+    <Phone>407-206-2300</Phone>
+    <Address Number="4040" Street="Central Florida Pkwy" City="Orlando" State="FL" Zip="32837"/>
+  </Hotel>
+
+  <Hotel Rating="4.3" NearestAirport="Las Vegas Harry Reid International Airport (LAS)">
+    <Name>Bellagio Hotel & Casino</Name>
+    <Phone>702-693-7111</Phone>
+    <Phone>888-987-6667</Phone>
+    <Address Number="3600" Street="S Las Vegas Blvd" City="Las Vegas" State="NV" Zip="89109"/>
+  </Hotel>
+
+  <Hotel NearestAirport="New York John F. Kennedy International Airport (JFK)">
+    <Name>The Plaza Hotel</Name>
+    <Phone>212-759-3000</Phone>
+    <Address Number="768" Street="5th Ave" City="New York" State="NY" Zip="10019"/>
+  </Hotel>
+
+  <Hotel Rating="4.0" NearestAirport="Miami International Airport (MIA)">
+    <Name>EB Hotel Miami</Name>
+    <Phone>305-EBHOTEL</Phone>
+    <Phone>305-123-4567</Phone>
+    <Address Number="4299" Street="NW 36th St" City="Miami Springs" State="FL" Zip="33166"/>
+  </Hotel>
+
+</Hotels>

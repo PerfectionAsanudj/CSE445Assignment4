@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+
+  <Hotel Rating="4.5">
+    <Name>Loews Atlanta Hotel</Name>
+    <Phone>404-745-5000</Phone>
+    <Address Number="1065" Street="Peachtree St NE" City="Atlanta" State="GA" Zip="30309"/>
+  </Hotel>
+
+  <Hotel Rating="4.0" NearestAirport="Dallas/Fort Worth International Airport (DFW)">
+    <Name>Gaylord Texan Resort</Name>
+    
+    <Address Number="1501" Street="Gaylord Trail" City="Grapevine" State="TX" Zip="76051"/>
+  </Hotel>
+
+ 
+  <Hotel NearestAirport="Denver International Airport (DEN)">
+    <Name>The Crawford Hotel</Name>
+    <Phone>720-460-3700</Phone>
+    <Address Number="1701" Street="Wynkoop St" City="Denver" State="CO" Zip="80202">
+  </Hotel>
+
+
+  <Hotel Rating="3.8" NearestAirport="Chicago O'Hare International Airport (ORD)">
+    <Name>Hyatt Regency O'Hare</Name>
+    <Name>Duplicate Name</Name>
+    <Phone>847-696-1234</Phone>
+    <Address Number="9300" Street="W Bryn Mawr Ave" City="Rosemont" State="IL" Zip="60018"/>
+  </Hotel>
+
+</Hotel>
